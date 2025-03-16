@@ -1,49 +1,33 @@
-## Hi there 👋
-<h1 align="center">Hello! I'm [Your Name] 👋</h1>
-<h3 align="center">💻 Full Stack MERN Developer | TypeScript | Next.js 🚀</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saparya Dey
+===================================================================================================================================
 
-<p align="center">
-  <a href="https://github.com/your-github-profile">
-    <img src="https://komarev.com/ghpvc/?username=your-github-profile&label=Profile%20Views&color=0e75b6&style=flat" alt="your-github-profile" />
-  </a>
-  <a href="https://github.com/your-github-profile?tab=followers">
-    <img src="https://img.shields.io/github/followers/your-github-profile?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-</p>
+Mern stack developer
+--------------------
 
----
+Passionate about MERN stack, TypeScript, and Next.js development.
 
-### 👨‍💻 About Me
-- 🌱 I specialize in **MERN Stack Development (MongoDB, Express, React, Node.js)**  
-- ⚡ Also skilled in **TypeScript, Next.js, and TailwindCSS**  
-- 💡 I love working on diverse and innovative projects  
-- 🚀 Currently exploring **AI integration with web apps**  
-- 🎯 Open to **collaborations & contributions** in the open-source community  
+* 🌍  I'm based in India
+* ✉️  You can contact me at [saparyadey2019@gmail.com](mailto:saparyadey2019@gmail.com)
+* 🤝  I'm open to collaborating on interesting projects
 
----
+### Skills
 
-### 🛠️ Tech Stack
+
 <p align="left">
-  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
----
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-profile&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-profile&layout=compact&theme=radical" width="48%" alt="Top Languages" />
-</p>
+### Socials
 
----
+<p align="left"> <a href="https://www.github.com/saparya04" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/saparya-dey-672217270/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### 📫 Get in Touch
-- 🔗 **Portfolio:** [your-portfolio-link](#)  
-- 📧 **Email:** your.email@example.com  
-- 🐦 **Twitter:** [@your-twitter](#)  
-- 💼 **LinkedIn:** [your-linkedin](#)  
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/saparya04"><img src="https://github-readme-stats.vercel.app/api?username=saparya04&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="saparya04's GitHub stats" /></a>
+
+<a href="http://www.github.com/saparya04"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=saparya04&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/saparya04" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saparya04&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
