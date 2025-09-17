@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mern stack developer
 --------------------
 
-Passionate about MERN stack, Redis, CICD and selenium.
+Passionate about MERN stack, Redis, CICD and selenium and currently learning typescript.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [saparyadey2019@gmail.com](mailto:saparyadey2019@gmail.com)
